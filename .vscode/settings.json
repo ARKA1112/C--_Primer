@@ -1,4 +1,9 @@
 {
     "workbench.editor.languageDetection": false,
-    "files.defaultLanguage": "cpp"
+    "files.defaultLanguage": "cpp",
+    "workbench.editor.historyBasedLanguageDetection": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
