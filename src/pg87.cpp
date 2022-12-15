@@ -18,7 +18,7 @@ int main()
         if (line.size()>=8)
         {
             p = line.size();
-            cout<<' '<<p<<endl;
+            cout<<' ' <<p<<endl;
         };
     };
     return 0;
