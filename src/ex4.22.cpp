@@ -10,3 +10,4 @@ int main()
     cout<<((score>=90)?"High Score":(score>60 && score<90)?"Pass":"Fail");
 }
 //done
+//Obviously the one using the conditional operator is less cumbersome
