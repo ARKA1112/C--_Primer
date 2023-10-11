@@ -1,1 +1,1 @@
-    cout<<"Input the integers: ";
+true
