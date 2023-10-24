@@ -5,5 +5,26 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "files.associations": {
         "ostream": "cpp"
-    }
+    },
+    "editor.fontFamily": "Jetbrains Mono",
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#f0c978",
+        "statusBar.background": "#ebb64a",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#e6a31c",
+        "statusBarItem.remoteBackground": "#ebb64a",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#ebb64a",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#ebb64a99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "activityBar.activeBackground": "#f0c978",
+        "activityBar.background": "#f0c978",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#108f66",
+        "activityBarBadge.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#ebb64a"
 }
